@@ -1,0 +1,101 @@
+{
+    "categories": [
+        {
+            "id": "1",
+            "title": "Smartphones",
+            "image": "https://techcrunch.com/wp-content/uploads/2019/08/smartphone-composite1-getty-images-Neil-Godwin.jpg"
+        },
+        {
+            "id": "2",
+            "title": "Laptops",
+            "image": "https://i.pinimg.com/originals/c7/8b/d1/c78bd1ec521188e9f2d2cc7a16cd1b31.jpg"
+        },
+        {
+            "id": "3",
+            "title": "Books",
+            "image": "https://media.gq.com/photos/5ad64204c8be07604e8b5f2f/4:3/w_1776,h_1332,c_limit/21-books-GQ-April-2018-041718-3x2.jpg"
+        }
+    ],
+    "pruducts": [
+        {
+            "id": "1",
+            "title": "iPhone 14 Pro Max",
+            "price": 1700,
+            "image": "https://www-konga-com-res.cloudinary.com/w_400,f_auto,fl_lossy,dpr_3.0,q_auto/media/catalog/product/S/E/67343_1663482037.jpg",
+            "description": "iPhone 14 Pro Max — zanglamaydigan po'latdan va Ceramic Shield zarbaga qarshi oynadan yasalgan oltinrangli korpusli smartfon, 256 Gb ichki xotiraga ega. IP68 suv va changdan himoya qilish klassi tufayli qurilma 6 m chuqurlikka botganda zarar ko'rmaydi. 6,7 dyumli super Retina xdr Pro Motion tipidagi ekran OLED texnologiyasidan foydalangan holda ishlab chiqarilgan.",
+            "categoryId": "1"
+        },
+        {
+            "id": "2",
+            "title": "Samsung Galaxy S23 Ultra",
+            "price": 1100,
+            "image": "https://m.media-amazon.com/images/I/61VfL-aiToL.jpg",
+            "description": "Galaxy S23 Ultra - Sayyoramizni hisobga olgan holda ishlab chiqarilgan va o'rnatilgan s Pen, Nightography kamerasi va qiziqarli o'yinlar uchun kuchli chip bilan jihozlangan. Professional darajadagi kadrlarning xotiraga muxrlash uchun Expert RAW dasturidan foydalanishingiz mumkin. Astrofoto, ko'pgina ekspozitsiya va boshqa xususiyatlarga ega 50 MP kamera bilan ajoyib suratlar olish imkoniga egasiz. Rasmlaringiz va videolaringiz kuning istalgan vaqtida yani quyosh botishidan tonggacha olingan kadrlarni aniq va tiniq olish imkoniyatiga egasiz.",
+            "categoryId": "1"
+        },
+        {
+            "id": "3",
+            "title": "Honor X8b 8/128GB",
+            "price": 320,
+            "image": "https://assets.asaxiy.uz/product/items/desktop/d787b85d4d827ced1d6f25fdf7ef669a2024010813542627538pG40cD8DCy.png",
+            "description": "Honor X8b smartfoni 90 Gts yangilanish tezligi, 2000 cd/m2 eng yuqori yorqinligi va 3240 chastotali PWM orqa nuri nazorati bilan FHD+ (2412 × 1080 piksel) o‘lchamli 6,7 dyuymli AMOLED displey bilan jihozlangan. Ekran qo‘llab-quvvatlaydi. 16,7 million rang soyasi va DCI-P3 rang maydonining 100 foizini qamrab oladi. Ekranning yuqori qismida oval shaklidagi Magic Capsule kesmasi mavjud, yangi funktsional displey elementida suhbat vaqti, taymer, ovoz yozish moslamasi aks etadi.",
+            "categoryId": "1"
+        },
+        {
+            "id": "4",
+            "title": "Xiaomi Redmi Note 13 Pro",
+            "price": 380,
+            "image": "https://assets.asaxiy.uz/product/items/desktop/a86c450b76fb8c371afead6410d5553420240117145846554823R9HQkGben.png",
+            "description": "Xiaomi bugun nafaqat Redmi Note 13, Redmi Note 13 Pro va Redmi Note 13 Pro+ modellarini, balki yanada arzonroq Redmi Note 13 Pro 4G va Redmi Note 13 4G modellarini ham global bozorga chiqardi.",
+            "categoryId": "1"
+        },
+        {
+            "id": "5",
+            "title": "Apple MacBook Pro 13 M2",
+            "price": 1600,
+            "image": "https://hiraoka.com.pe/media/mageplaza/blog/post/m/a/macbook_air_vs._macbook_pro-_cuales_son_sus_diferencias.jpg",
+            "description": "Applening MacBook Air noutbuklari har doim o'zining eng yuqori sifati bilan mashhur bo'lgan, ammo bu yerda katta o'zgarishlar kamdan-kam uchrashi mumkin. Biroq, Apple M1 protsessorining chiqarilishi bilan hamma narsa o'zgacha tus oldi. Shunday qilib, Applening yangi MacBook Air M1 (2020) ultrabukining kuchi keyingi bosqichga ko'tarildi.",
+            "categoryId": "2"
+        },
+        {
+            "id": "6",
+            "title": "Acer Aspire 3, Core I3-N305",
+            "price": 350,
+            "image": "https://mercado.ripleylabs.com/wp-content/uploads/2023/08/A314-36P_02.jpg",
+            "description": "Acer Aspire 3 A315-510P-3652 noutbuki inglizcha klaviatura bilan jihozlangan. Displey diagonali 15,6 dyuym. Quyosh nurlaridan himoya qiluvchi mot qoplamali ekran 1920x1080 piksel o'lchamiga ega. SSD drayveri 256 GB gacha ma'lumotni saqlaydi. DDR4 RAM 4 GB sig'imga ega. Displey tepasida veb-kamera joylashgan. Bluetooth 5.0 hujjatlar, foto va video fayllarni simsiz uzatish imkonini beradi, Wi-Fi va RJ-45 ulagichi - mos ravishda router yoki kabel orqali internetga ulanish. Model 6 yadroli Intel Core i3-1215U protsessori bilan jihozlangan.",
+            "categoryId": "2"
+        },
+        {
+            "id": "7",
+            "title": "HP 250 G9. Core I3-1215U",
+            "price": 470,
+            "image": "https://www.notebookcheck.net/fileadmin/_processed_/8/9/csm_IMG_1382_aeb753831c.jpg",
+            "description": "HP 250 G9 Affordable Business Notebook 15,6 dyuymli katta displeyga ega nozik va engil dizaynda kerakli quvvat va unumdorlikni taqdim etadi. Chiroyli va engil, HP 250 noutbuki yupqa va engil dizayni hamda katta ekranning tanaga nisbati bilan mobil ish uslubiga mos keladi. Ish uchun ishlab chiqilgan, oynashga tayyor. Kuchli Intel protsessor, tezkor xotira va saqlash bilan ishlarni bajaring",
+            "categoryId": "2"
+        },
+        {
+            "id": "8",
+            "title": "Jeyms Klir: Atom odatlar",
+            "price": 5.3,
+            "image": "https://assets.asaxiy.uz/product/items/desktop/6097870216ddfc90f71880b1082c42912023080116353962082BFoT6DM8hD.jpg.webp",
+            "description": "New York Timesning birinchi raqamli bestselleri. Dunyo bo'ylab 2 yilda 5 milliondan ortiq nusxada sotilgan! Ushbu kitob sizga har kuni oz-ozdan yaxshilanib borishning sinalgan dasturini taklif qiladi. Odatlarni shakllantirish boyicha dunyoning yetakchi ekspertlaridan bori Jeyms Klir yaxshi odatlarni shakllantirish, yomonlaridan xalos bolish hamda katta natijalarga olib boruvchi kichik odatlarni egallashni orgatuvchi amaliy strategiyalarni ochib beradi.",
+            "categoryId": "3"
+        },
+        {
+            "id": "9",
+            "title": "Kel Nyuport: Diqqat",
+            "price": 6.1,
+            "image": "https://assets.asaxiy.uz/product/items/desktop/fa90db78a40bb28c08346e05813bbdc32023081211154164899UjRcxiQ24T.jpg",
+            "description": "Kitobda eng muhim mavzu, keraksiz kichik narsalarga chalgʻimasdan, diqqatni murakkab va muhim vazifalarga jalb qilish haqida yozilgan. Kitobda taʼkidlanishicha zamonaviy dunyoda diqqatini jamlab, bir vazifa ustida ishlay bilgan odamlargina haqiqiy yutuqlarga erisholadi.",
+            "categoryId": "3"
+        },
+        {
+            "id": "10",
+            "title": "Leonid Chigrin: Yapon zobiti",
+            "price": 4.1,
+            "image": "https://assets.asaxiy.uz/product/items/desktop/3240457561e8153779adc521e1e7ff6c20230504161141745118rtzw5LJgs.jpg.webp",
+            "description": "Yapon zobiti rus-yapon urushiga oʻziga xos nuqtai nazarni taqdim etadigan yaxshi yozilgan va qiziqarli roman. Yaponiya tarixi, Koreya tarixi yoki harbiy fantastika bilan qiziqqan, badiiy kitoblarni sevadigan, syujeti sabab oʻziga bogʻlab qoʻyadigan kitobni oʻqishni istagan kitobxonlarga tavsiya etiladi.",
+            "categoryId": "3"
+        }
+    ]
+}
